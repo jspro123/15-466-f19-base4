@@ -1,19 +1,19 @@
-# (TODO: your game's title)
+# Professional Sniper 7
 
-Author: (TODO: your name)
+Author: Malek Anabtawi
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: There is no game.
 
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
-How To Play:
-
-(TODO: describe the controls and (if needed) goals/strategy.)
+How To Play: Use the mouse to open the README file. (If there actually was a game, right click to scope, left click to shoot)
 
 Sources:
 
-(TODO: fill in information about the sources of any **artwork** or **sounds** you used in the game that you did not create yourself. Feel free to also credit yourself for things you did make.)
+Well, not much. 
+
+(I was told this was worth points, which is why I'm submitting at all...)
 
 This game was built with [NEST](NEST.md).
